@@ -1,0 +1,31 @@
+* {background-color: light-grey;
+	
+}
+	
+form.erreur { color: red;
+	
+}
+
+h1{
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+#mon-form{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+*{
+	font-family: 'Taviraj', serif;
+	text-align: center;
+}
+footer{
+	margin-bottom: 0px;
+}
+nav{
+	background-color: grey
+	
+}
+.fieldset{
+	
+}
